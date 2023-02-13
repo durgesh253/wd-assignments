@@ -1,0 +1,44 @@
+input{
+    width: 35%;
+padding: 10px;
+border: 1px solid rgb(168, 166, 166);
+border-radius: 4px;
+
+}
+input[type=radio],input[type=checkbox]{
+width: 1%;
+padding-left: 0%;
+border: 1px solid rgb(168, 166, 166);
+border-radius: 4px;
+
+}
+#address{
+width: 36%;
+}
+.col{
+color: black;
+
+float: left;
+width:10%;
+margin-top: 7px; 
+}
+.row{
+float: left;
+width: 90%;
+margin-top: 7px; 
+}
+form{
+border-radius: 5px;
+background-color:aliceblue;
+padding: 20px;
+}
+h1{
+text-align: center;
+color: red;
+}
+button{
+padding: 10px 20px;
+background-color: rgb(64, 253, 64);
+border: none;
+border-radius: 5px;
+}
